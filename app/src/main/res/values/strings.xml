@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseDatabase</string>
+    <string name="enter_name">Enter name</string>
+    <string name="EnterName">Enter Name</string>
+    <string name="EnterEmail">EnterEmail</string>
+    <string name="choose_picture">Choose Picture</string>
+    <string name="submit">Submit</string>
+    <string name="image">IMAGE</string>
+</resources>
